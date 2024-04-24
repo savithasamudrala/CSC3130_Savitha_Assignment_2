@@ -1,0 +1,67 @@
+k-sorting Algorithms Report
+
+Sorting algorithm - Bubble Sort: 
+Sorted 100 elements in 0.019545 ms
+Sorted 500 elements in 0.03881999999999999 ms
+Sorted 1000 elements in 0.139905 ms
+Sorted 2000 elements in 0.5865750000000001 ms
+Sorted 5000 elements in 3.31015 ms
+Sorted 10000 elements in 12.962684999999999 ms
+Sorted 20000 elements in 74.162515 ms
+Sorted 75000 elements in 1218.9717349999996 ms
+Sorted 150000 elements in 4330.853035 ms
+
+Sorting algorithm - Insertion Sort: 
+Sorted 100 elements in 0.01472 ms
+Sorted 500 elements in 0.03737000000000001 ms
+Sorted 1000 elements in 0.009679999999999998 ms
+Sorted 2000 elements in 0.0057 ms
+Sorted 5000 elements in 0.016675000000000002 ms
+Sorted 10000 elements in 0.035800000000000005 ms
+Sorted 20000 elements in 0.06020500000000001 ms
+Sorted 75000 elements in 0.27625 ms
+Sorted 150000 elements in 0.43249000000000015 ms
+
+Sorting algorithm - Selection Sort: 
+Sorted 100 elements in 0.020110000000000006 ms
+Sorted 500 elements in 0.12677 ms
+Sorted 1000 elements in 0.23980499999999996 ms
+Sorted 2000 elements in 0.9005450000000002 ms
+Sorted 5000 elements in 7.8738800000000015 ms
+Sorted 10000 elements in 20.669635 ms
+Sorted 20000 elements in 72.49031 ms
+Sorted 75000 elements in 1295.09694 ms
+Sorted 150000 elements in 5206.999045000001 ms
+
+Sorting algorithm - Shell Sort: 
+Sorted 100 elements in 0.039825000000000006 ms
+Sorted 500 elements in 0.04931000000000001 ms
+Sorted 1000 elements in 0.08280499999999999 ms
+Sorted 2000 elements in 0.10001 ms
+Sorted 5000 elements in 0.445845 ms
+Sorted 10000 elements in 1.2552199999999998 ms
+Sorted 20000 elements in 4.73545 ms
+Sorted 75000 elements in 47.42224999999999 ms
+Sorted 150000 elements in 166.80016 ms
+
+Sorting algorithm - Quick Sort: 
+Sorted 100 elements in 0.010199999999999997 ms
+Sorted 500 elements in 0.01745 ms
+Sorted 1000 elements in 0.022979999999999993 ms
+Sorted 2000 elements in 0.05172000000000001 ms
+Sorted 5000 elements in 0.102965 ms
+Sorted 10000 elements in 0.16909999999999997 ms
+Sorted 20000 elements in 0.39115 ms
+Sorted 75000 elements in 1.2800749999999999 ms
+Sorted 150000 elements in 2.4902100000000003 ms
+
+Sorting algorithm - Merge Sort: 
+Sorted 100 elements in 0.014815 ms
+Sorted 500 elements in 0.04095999999999999 ms
+Sorted 1000 elements in 0.05072000000000001 ms
+Sorted 2000 elements in 0.092855 ms
+Sorted 5000 elements in 0.33499500000000004 ms
+Sorted 10000 elements in 0.5443899999999999 ms
+Sorted 20000 elements in 1.133275 ms
+Sorted 75000 elements in 2.7250300000000003 ms
+Sorted 150000 elements in 5.352124999999999 ms
